@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Archie Barnard
+
 🎓 Second-year BSc (Hons) Computer Science student at Kingston University, graduating July 2027.
 
 💻 Strong foundation in programming and problem-solving, with experience building C#, Java and SQL-based applications, as well as responsive web projects using HTML, CSS, and JavaScript.
